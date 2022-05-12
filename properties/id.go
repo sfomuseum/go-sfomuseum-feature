@@ -5,6 +5,7 @@ import (
 	"github.com/tidwall/gjson"
 )
 
+// Id returns the `sfomuseum:*` identifier for 'body' based on its placetype.
 func Id(body []byte) (int64, error) {
 
 	pt, err := Placetype(body)

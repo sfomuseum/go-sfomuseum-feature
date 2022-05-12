@@ -1,10 +1,10 @@
 # go-sfomuseum-feature
 
-Go package for working with SFO Museum feature records
+Go package for working with SFO Museum feature records.
 
 ## Documentation
 
-Documentation is incomplete at this time.
+[![Go Reference](https://pkg.go.dev/badge/github.com/sfomuseum/go-sfomuseum-feature.svg)](https://pkg.go.dev/github.com/sfomuseum/go-sfomuseum-feature)
 
 ## See also
 
